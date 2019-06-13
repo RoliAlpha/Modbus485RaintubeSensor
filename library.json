@@ -1,0 +1,38 @@
+"name": "Modbus485RaintubeSensor",
+  "keywords": "arduino, sensor, ardusensorplatform framework",
+  "description": "Modbus485RaintubeSensor Sensor components for ardusensorplatform framework",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/RoliAlpha/Modbus485RaintubeSensor.git"
+  },
+  "authors": 
+  [
+    {
+      "name": "RoliAlpha",
+      "email": "652107085@qq.com",
+      "url": "http://www.milesburton.com",
+      "maintainer": true
+    },
+    {
+      "name": "zhengwei",
+      "email": "652107085@qq.com"
+    },
+    {
+      "name": "wuqiqi",
+      "email": "652107085@qq.com"
+    },
+    {
+      "name": "wangyuxing",
+      "email": "652107085@qq.com"
+    }
+  ],
+ "dependencies":
+  {
+    "name": "ArduSensorPlatformCoreBase",
+    "authors": "RoliAlpha",
+    "frameworks": "arduino"
+  },
+  "version": "1.2.0",
+  "frameworks": "arduino",
+  "platforms": "*"
